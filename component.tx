@@ -1,0 +1,41 @@
+<img class="soicallogo" src="assets/social Logo/fb.svg" alt="">
+                <img class="soicallogo" src="assets/social Logo/twitter.svg" alt="">
+                <img class="soicallogo"src="assets/social Logo/linkedin.svg" alt="">
+                <img class="soicallogo" src="assets/social Logo/pinster.svg" alt="">
+
+
+                ?? Table method
+
+                <table >
+            <tr class="thheading">
+                <th>
+                    Information
+                </th>
+                <th>
+                    Contacts
+                </th>
+            </tr>
+            <tr>
+                <td>
+                    Main
+                </td>
+                <td>
+                    1234 Sample Street <br>
+                    Austin Texas 78704
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Gallery
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Projects
+                </td>
+            </tr>
+
+        </table>
+
+
