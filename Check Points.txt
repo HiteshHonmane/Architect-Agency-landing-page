@@ -1,2 +1,1 @@
-2.Adding media Query to make it responsive
 
