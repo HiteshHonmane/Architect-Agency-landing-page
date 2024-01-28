@@ -105,8 +105,8 @@ li {
     margin-top: 40px;
     display: flex;
     justify-content: center;
-    object-fit: contain;
-    background-size: contain;
+    object-fit: cover;
+   
 
 }
 
@@ -984,4 +984,21 @@ td {
     align-items: center;
     justify-content: center;
     /* 183.333% */
+}
+
+@media (max-width:600px) {
+
+
+    footer {
+        width: 100vw;
+        height: 417px;
+        flex-shrink: 0;
+        background-color: #2C2C2C;
+        position: absolute;
+        top: 3718px;
+        display: flex;
+    
+    }
+
+    
 }
